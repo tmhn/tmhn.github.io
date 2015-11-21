@@ -26,7 +26,7 @@ Things I love
 <span class="contacticon center">
 	<a href="mailto:iTomHanson@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/tmhn" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/thomasmhanson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://uk.linkedin.com/in/thomasmhanson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/iTomHanson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
