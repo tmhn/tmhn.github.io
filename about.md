@@ -11,6 +11,14 @@ Hi there, I'm Tom. I'm currently studying Computer Science at Sheffield Hallam U
 
 I am currently in my Final Year at University and enjoying putting into practice the principles and lessons I learnt from my placement year. Currently working on a React-Native iOS application for healthcare professionals.
 
+<br/>
+Things I love
+<ul>
+	<li>Bikes</li>
+	<li>Coffee</li>
+	<li>Cake</li>
+	<li>Open Source</li>
+</ul>
 
 <br/>
 <hr/>
